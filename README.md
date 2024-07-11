@@ -1,6 +1,6 @@
 # 2023Spring-BUAA-OS
 ## 2023年春季北航操作系统课程MOS课设
-![图片](https://github.com/YangYzzzz/2023Spring-BUAA-OS/assets/137391849/4499e1cb-bc00-48dd-a6a5-d999cc134ac2)
+![](https://github.com/YangYzzzz/2023Spring-BUAA-OS/assets/137391849/4499e1cb-bc00-48dd-a6a5-d999cc134ac2)
 
 仓库内包含文件夹：
 - LAB0~LAB6：实验0到实验6的实验报告
